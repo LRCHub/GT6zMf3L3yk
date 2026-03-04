@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ほんの感想",
+  "base_artist": "長瀬有花",
+  "createdAt": "2026-03-04T02:33:41.304992Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ほんの感想",
+      "artist": "長瀬有花",
+      "has_synced": false,
+      "path": "select/pl_01_ほんの感想_長瀬有花.txt"
+    }
+  ]
+}
